@@ -3,8 +3,8 @@
 A Flutter project studnet can easly access therir account
 without wasting time to chrome login page tab
 ## issue in Zoom!!
-people can fix horizontal Zoom issue can fix this 
-Or direct contact me on whatsapp 📲 +918606683287 
+<!-- people can fix horizontal Zoom issue can fix this 
+Or direct contact me on whatsapp 📲 +918606683287  -->
 
 ## Getting Started
 
