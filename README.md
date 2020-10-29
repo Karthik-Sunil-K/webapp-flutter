@@ -2,11 +2,13 @@
 
 A Flutter project studnet can easly access therir account
 without wasting time to chrome login page tab
+<!-- light-weight simple app for both OS(Android/IOS) -->
 ## issue in Zoom!!
-<!-- people can fix horizontal Zoom issue can fix this 
-Or direct contact me on whatsapp 📲 +918606683287  -->
+people can fix horizontal Zoom issue can fix this 
+Or direct contact me on whatsapp 📲 +918606683287 
+Login Page=https://tkmce.etlab.in/user/login
 
-## Getting Started
+<!-- ## Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -17,4 +19,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
