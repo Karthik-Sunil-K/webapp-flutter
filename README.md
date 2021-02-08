@@ -1,4 +1,4 @@
-# webapp For TKMCE AWS(ETLAB)
+# webapp For TKMCE AMS(ETLAB)
 
 A Flutter project studnet can easly access therir account
 without wasting time to chrome login page tab
